@@ -6,5 +6,5 @@ This repository contains a Power BI dashboard created using the AdventureWorks d
 
 - Interactive visualizations for analyzing AdventureWorks data
 - Utilizes custom DAX measures to calculate key metrics
+- Utilizes a wide range of visualization tools, including charts, tables, and maps
 - Includes drill-through functionality for deeper data exploration
-- Responsive design for optimal viewing across different devices
