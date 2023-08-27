@@ -18,5 +18,5 @@ Welcome to the AdventureWorks Power BI Dashboard repository! This project showca
 
 ### Model View
 
-![Model View](Screenshots/Model View.png)
+![Model View](Screenshots/Model View.PNG)
 *A look at the underlying data model and relationships, providing a solid foundation for analysis.*
