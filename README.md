@@ -13,7 +13,7 @@ Welcome to the AdventureWorks Power BI Dashboard repository! This project showca
 
 ### Executive Dashboard
 
-![Executive Dashboard](Screenshots/Exec.png)
+![Executive Dashboard](Screenshots/Exec.PNG)
 *An overview of the key performance indicators and metrics, giving a snapshot of the business health.*
 
 ### Model View
